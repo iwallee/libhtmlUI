@@ -1,4 +1,4 @@
-libhtmlUI
+libwebUI
 =========
 
-libhtmlUI based on chrome
+libwebUI based on chrome
